@@ -10,4 +10,4 @@
 contact@mogler.dev
 
 **website:**
-mogler.dev
+https://mogler.dev
