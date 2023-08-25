@@ -1,90 +1,56 @@
-
-<h1 align="center">**hi , i'm christopher r. jaeger**</h1>
-<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=fullstack+developer,;student+@+htwg+in+konstanz,;german+programmer"></a>
+  <img src="https://avatars.githubusercontent.com/u/39583780?v=4" alt="Your Name" width="200" />
 </p>
 
-
-<br>
-
-
-
-	
-## 🦖 **about me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- fullstack developer
-- lives in germany, blackforest
-
-<br><br>
-
-## 🛫 **skills**
-<br>
+<h1 align="center">Your Name</h1>
 
 <p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/c%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Vercel](https://img.shields.io/badge/Vercel-%23327FC7.svg?style=for-the-badge&logo=vercel&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+  Software Developer | Open Source Enthusiast | Aspiring AI Engineer
 </p>
 
-<br>
-<br>
+<p align="center">
+  <a href="https://yourwebsite.com">Website</a> •
+  <a href="https://twitter.com/yourusername">Twitter</a> •
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+</p>
 
------
+---
 
-<br>
+Hi there! 👋 I'm Christopher R. Jaeger, a passionate software developer with a strong interest in open source projects and artificial intelligence. Welcome to my GitHub profile.
 
+🌱 I'm currently learning and working on exciting projects related to machine learning and natural language processing.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+📚 I love to share my knowledge, and you can find my articles on my [blog](https://mogler.dev). *(WIP)*
 
-<div align="center">
+### 🔧 Technologies & Tools
 
-<a href="https://github.com/moglerdev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=moglerdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moglerdev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+- Programming Languages: Python, JavaScript, C/C++, Rust, 
+- Frameworks: React, Flask
+- Databases: PostgreSQL, MongoDB
+- Tools: VS Code, Git, Docker
+- Cloud: GitHub, Proton, GitLab, Vercel, Hetzner
 
-</a>
-</div>
+### 🚀 Projects
 
-<br>
-<br>
-<br>
+Here are some of my noteworthy projects:
 
------
+1. [Student Project](https://github.com/moglerdev/se-cust-man) - A brief description of the project.
+2. [VSCode Updater]([https://github.com/yourusername/another-project](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d)) - Explain what this project does.
 
-<br>
-<br>
+### 📝 Contribution
 
+Check out some of my PRs:
+
+- https://github.com/verdaccio/verdaccio/pull/3989
+
+### 📫 Contact Me
+
+Feel free to reach out:
+
+- Website: [mogler.dev](https://mogler.dev)
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/christopher-r-jaeger](https://linkedin.com/in/christopher-r-jaeger)
+
+---
+
+⭐️ Thank you for visiting my GitHub profile. Don't forget to check out my projects and connect with me on social media!
