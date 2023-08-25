@@ -37,7 +37,7 @@ I'm also a freelancer, working on various projects in my free time.
 Here are some of my noteworthy projects:
 
 1. [Student Project](https://github.com/moglerdev/se-cust-man) - My student project for the module Software Architecture
-2. [VSCode Updater]([https://github.com/yourusername/another-project](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d)) - If you're an Arch Linux user, this guide makes it easy to install and keep your VS Code up-to-date effortlessly.
+2. [VSCode Updater][(https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d) - If you're an Arch Linux user, this guide makes it easy to install and keep your VS Code up-to-date effortlessly.
 
 ### 📝 Contribution
 
@@ -54,5 +54,7 @@ Feel free to reach out:
 - LinkedIn: [linkedin.com/in/christopher-r-jaeger](https://linkedin.com/in/christopher-r-jaeger)
 
 ---
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moglerdev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 ⭐️ Thank you for visiting my GitHub profile. Don't forget to check out my projects and connect with me on social media!
