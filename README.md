@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/39583780?v=4" alt="Your Name" width="200" />
 </p>
 
-<h1 align="center">Your Name</h1>
+<h1 align="center">Christopher R. Jaeger</h1>
 
 <p align="center">
   Software Developer | Open Source Enthusiast | Aspiring AI Engineer
