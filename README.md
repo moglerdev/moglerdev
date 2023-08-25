@@ -9,16 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://yourwebsite.com">Website</a> •
-  <a href="https://twitter.com/yourusername">Twitter</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  <a href="https://mogler.dev">Website</a> •
+  <a href="https://linkedin.com/in/christopher-r-jaeger">LinkedIn</a>
 </p>
 
 ---
 
 Hi there! 👋 I'm Christopher R. Jaeger, a passionate software developer with a strong interest in open source projects and artificial intelligence. Welcome to my GitHub profile.
 
-🌱 I'm currently learning and working on exciting projects related to machine learning and natural language processing.
+🌱 I'm currently working as a Software Developer at [Nexus AG](https://www.nexus-ag.de/) in Germany, where I'm involved in exciting projects.
+I'm also a freelancer, working on various projects in my free time.
+
+🎓 I'm pursuing a degree in Applied Computer Science at [HTWG Konstanz](https://www.htwg-konstanz.de/), where I'm expanding my knowledge and skills in software development.
 
 📚 I love to share my knowledge, and you can find my articles on my [blog](https://mogler.dev). *(WIP)*
 
@@ -34,8 +36,8 @@ Hi there! 👋 I'm Christopher R. Jaeger, a passionate software developer with a
 
 Here are some of my noteworthy projects:
 
-1. [Student Project](https://github.com/moglerdev/se-cust-man) - A brief description of the project.
-2. [VSCode Updater]([https://github.com/yourusername/another-project](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d)) - Explain what this project does.
+1. [Student Project](https://github.com/moglerdev/se-cust-man) - My student project for the module Software Architecture
+2. [VSCode Updater]([https://github.com/yourusername/another-project](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d)) - If you're an Arch Linux user, this guide makes it easy to install and keep your VS Code up-to-date effortlessly.
 
 ### 📝 Contribution
 
