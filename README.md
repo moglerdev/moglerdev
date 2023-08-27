@@ -5,7 +5,7 @@
 <h1 align="center">Christopher R. Jaeger</h1>
 
 <p align="center">
-  Software Developer | Open Source Enthusiast | Aspiring AI Engineer
+  Software Developer | Open Source Enthusiast | Student
 </p>
 
 <p align="center">
@@ -20,18 +20,21 @@ Hi there! 👋 I'm Christopher R. Jaeger, a passionate software developer with a
 🌱 I'm currently working as a Software Developer at [Nexus AG](https://www.nexus-ag.de/) in Germany, where I'm involved in exciting projects.
 I'm also a freelancer, working on various projects in my free time.
 
-🎓 I'm pursuing a degree in Applied Computer Science at [HTWG Konstanz](https://www.htwg-konstanz.de/), where I'm expanding my knowledge and skills in software development.
+🎓 I'm pursuing a Bachelor's degree in Applied Computer Science at [HTWG Konstanz](https://www.htwg-konstanz.de/), where I'm expanding my knowledge and skills in software development.
 
 📚 I love to share my knowledge, and you can find my articles on my [blog](https://mogler.dev). *(WIP)*
 
 ### 🔧 Technologies & Tools
 
-- Programming Languages: Python, JavaScript, C/C++, Rust, 
-- Frameworks: React, Flask
+- Programming: JavaScript, C/C++, Python, PHP, Java/Scala
+  - Learning: Rust, Kotlin
+- Markup: HTML, CSS, Markdown, YAML, JSON
+- Frameworks: Flask, WPF, Vue, NextJS, RemixJS
+- Libs: React, jQuery
 - Databases: PostgreSQL, MongoDB
 - Tools: VS Code, Git, Docker
-- Cloud: GitHub, Proton, GitLab, Vercel, Hetzner
-
+- DevOps: Hetzner Cloud, GitHub Actions, Azure, Docker
+  - Learning: Kubernetes/K8s
 ### 🚀 Projects
 
 Here are some of my noteworthy projects:
@@ -50,7 +53,6 @@ Check out some of my PRs:
 Feel free to reach out:
 
 - Website: [mogler.dev](https://mogler.dev)
-- Email: your.email@example.com
 - LinkedIn: [linkedin.com/in/christopher-r-jaeger](https://linkedin.com/in/christopher-r-jaeger)
 
 ---
