@@ -39,9 +39,10 @@ I'm also a freelancer, working on various projects in my free time.
 
 Here are some of my noteworthy projects:
 
-1. [Student Project](https://github.com/moglerdev/se-cust-man) - My student project for the module Software Architecture
-2. [VSCode Updater](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d) - If you're an Arch Linux user, this guide makes it easy to install and keep your VS Code up-to-date effortlessly.
-3. [altebruecke](https://www.altebruecke.de/en?github=true) - Website powered by NextJS and Vercel 🤟
+1. [Short URL](https://github.com/moglerdev/short-url/) - create short url links for private your purpose 
+2. [Student Project](https://github.com/moglerdev/se-cust-man) - My student project for the module Software Architecture
+3. [VSCode Updater](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d) - If you're an Arch Linux user, this guide makes it easy to install and keep your VS Code up-to-date effortlessly.
+4. [altebruecke](https://www.altebruecke.de/en?github=true) - Website powered by NextJS and Vercel 🤟
 
 ### 📝 Contribution
 
