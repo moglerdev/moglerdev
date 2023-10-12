@@ -39,7 +39,7 @@ I'm also a freelancer, working on various projects in my free time.
 
 Here are some of my noteworthy projects:
 
-1. [Short URL](https://github.com/moglerdev/ts-node-template/) - a nice startkit for node and typescript, with auto restart, test framework and dockerfile. 
+1. [ts node template](https://github.com/moglerdev/ts-node-template/) - a nice startkit for node and typescript, with auto restart, test framework and dockerfile. 
 1. [Short URL](https://github.com/moglerdev/short-url/) - create short url links for private your purpose 
 2. [Student Project](https://github.com/moglerdev/se-cust-man) - My student project for the module Software Architecture
 3. [VSCode Updater](https://gist.github.com/moglerdev/c9c4ba4a69b35c363af0da09b8526c5d) - If you're an Arch Linux user, this guide makes it easy to install and keep your VS Code up-to-date effortlessly.
